@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/heleneshaikh/Documents/Android/BOOK/Odometer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/heleneshaikh/Documents/Android/BOOK/Odometer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_7ed73d13490527a966121aa7b9f416b26882aeed/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heleneshaikh/Documents/Android/BOOK/Odometer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/heleneshaikh/Documents/Android/BOOK/Odometer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_63c48521d874b03dfd974ab2272162baa2790abe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heleneshaikh/Documents/Android/BOOK/Odometer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4ee0ef983422bd1346f7cf7eafa407cb60c34f5d">
+        <dex dex="/Users/heleneshaikh/Documents/Android/BOOK/Odometer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e71742b1ad33d3e6801923bac71c9446d9ef57a9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heleneshaikh/Documents/Android/BOOK/Odometer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9d7c8ba8b9d47c3b6190558a86b45e6343e3bdfd">
+        <dex dex="/Users/heleneshaikh/Documents/Android/BOOK/Odometer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d0734ee249deb80077bf1e93ce5a9fe20ae69f29/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heleneshaikh/Documents/Android/BOOK/Odometer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/heleneshaikh/Documents/Android/BOOK/Odometer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_53343631f84d4d76006e9415ebb14204a26823b2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heleneshaikh/Documents/Android/BOOK/Odometer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/heleneshaikh/Documents/Android/BOOK/Odometer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_2bc76e2fd24edc25dc21443ba37157dd8e3672e0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heleneshaikh/Documents/Android/BOOK/Odometer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/heleneshaikh/Documents/Android/BOOK/Odometer/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_273414b9506aa57fbd5c2f487b94cf6125b94fbb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heleneshaikh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/heleneshaikh/Documents/Android/BOOK/Odometer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_f1d92953dcfafdc256faed7426e04ea6f6f00670/classes.dex" />
+    </item>
+
+</items>
